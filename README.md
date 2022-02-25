@@ -3,7 +3,7 @@
 ### About Me
 📫 How to reach me <br>
 📰 Blog : [My Github Blog](https://taehwai.github.io.)<br>
-📙 Instargram : [Instagram](https://www.instagram.com/taehwai_/)<br>
+📙 Instagram : [Instagram](https://www.instagram.com/taehwai_/)<br>
 📘 Facebook : [Facebook](https://www.facebook.com/profile.php?id=100003574690844)<br>
 📩 E-Mail : xoghks4623@naver.com or @gmail.com<br>
 - 🔭 I'm interested in data science 
